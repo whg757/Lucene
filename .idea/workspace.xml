@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4070189a-ed9b-42dd-8d56-59b4e4933871" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25riqz1bGdlMX7FyITZkFnuElP4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/luence-first/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itcast.lucene" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ruoyi\lucene\lucene-project\luence-first\src" />
+      <recent name="D:\ruoyi\lucene\lucene-project\luence-first\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SearchIndex.testQueryParser">
+    <configuration name="LuceneFirst.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luence-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.lucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.lucene" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.lucene.LuceneFirst" />
+      <option name="METHOD_NAME" value="createIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuceneFirst.searchIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luence-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.lucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.lucene" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.lucene.LuceneFirst" />
+      <option name="METHOD_NAME" value="searchIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuceneFirst.testTokenStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luence-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.lucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.lucene" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.lucene.LuceneFirst" />
+      <option name="METHOD_NAME" value="testTokenStream" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchIndex.testQueryParser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luence-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.lucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.lucene" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.lucene.SearchIndex" />
+      <option name="METHOD_NAME" value="testQueryParser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchIndex.testRangeQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="luence-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.lucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.lucene" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.lucene.SearchIndex" />
+      <option name="METHOD_NAME" value="testRangeQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchIndex.testQueryParser" />
+        <item itemvalue="JUnit.SearchIndex.testRangeQuery" />
+        <item itemvalue="JUnit.LuceneFirst.searchIndex" />
+        <item itemvalue="JUnit.LuceneFirst.createIndex" />
+        <item itemvalue="JUnit.LuceneFirst.testTokenStream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4070189a-ed9b-42dd-8d56-59b4e4933871" name="Default Changelist" comment="" />
+      <created>1646291800854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646291800854</updated>
+      <workItem from="1646291809434" duration="8930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1646291914324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1646291914324" />
+    <state x="842" y="191" key="FileChooserDialogImpl" timestamp="1646294924347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="842" y="191" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1646294924347" />
+    <state width="1237" height="115" key="GridCell.Tab.0.bottom" timestamp="1646365611522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1646365611522" />
+    <state width="1237" height="115" key="GridCell.Tab.0.center" timestamp="1646365611521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1646365611521" />
+    <state width="1237" height="115" key="GridCell.Tab.0.left" timestamp="1646365611521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1646365611521" />
+    <state width="1237" height="115" key="GridCell.Tab.0.right" timestamp="1646365611521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1646365611521" />
+    <state width="1237" height="248" key="GridCell.Tab.1.bottom" timestamp="1646365594427">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="248" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1646365594427" />
+    <state width="1237" height="248" key="GridCell.Tab.1.center" timestamp="1646365594426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="248" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1646365594426" />
+    <state width="1237" height="248" key="GridCell.Tab.1.left" timestamp="1646365594426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="248" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1646365594426" />
+    <state width="1237" height="248" key="GridCell.Tab.1.right" timestamp="1646365594427">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="248" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1646365594427" />
+    <state x="168" y="32" width="1038" height="605" key="SettingsEditor" timestamp="1646294930445">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="168" y="32" width="1038" height="605" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1646294930445" />
+    <state x="0" y="468" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1646293120752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="468" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1646293120752" />
+    <state x="28" y="0" key="new project wizard" timestamp="1646291875713">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1646291875713" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/luence-first/src/com/itcast/lucene/SearchIndex.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/luence-first/src/com/itcast/lucene/SearchIndex.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
